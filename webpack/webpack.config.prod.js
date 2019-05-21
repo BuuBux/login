@@ -28,7 +28,7 @@ module.exports = merge(common, {
               autoprefixer()
           ]
       }
-  })
+    })
   ],
   module: {
     rules: [
