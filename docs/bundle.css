@@ -45,7 +45,6 @@ body {
   background: #fff; }
   .switch-forms:before, .switch-forms:after {
     content: '';
-    left: -2px;
     position: absolute;
     height: 153px;
     width: 100px; }
