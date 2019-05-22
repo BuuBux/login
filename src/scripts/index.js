@@ -1,6 +1,6 @@
 import '../styles/index.scss';
 
-const newText = 'Welcome!';
+const newText = '{Apteka}';
 const forgot = document.querySelector('.remember-link');
 const goBack = document.querySelector('.back-link');
 const forgotForm = document.querySelector('.forgot');
